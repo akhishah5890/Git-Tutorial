@@ -1,1 +1,1 @@
-index function
+index version 2 function
